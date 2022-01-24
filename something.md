@@ -1,0 +1,1 @@
+New-Item .npmrc   代替   touch .npmrc
