@@ -2,4 +2,4 @@
 . "$(dirname "$0")/_/husky.sh"
 
 # npm test
- # Commit will be aborted
+#   exit 1  # Commit will be aborted

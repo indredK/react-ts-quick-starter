@@ -2,3 +2,6 @@
 . "$(dirname "$0")/_/husky.sh"
 
 npx --no-install commitlint --edit $1
+#  npx --no-install commitlint --config .commitlintrc.js $1
+
+#  npx husky add .husky/commit-msg
